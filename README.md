@@ -1,15 +1,14 @@
 ## Olá, eu sou o Douglas! Tudo bem?
-[![Site](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@douglaslittig)
-[![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaslittig/)
-[![Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.littig@gmail.com)
+
 
 ### Seja muito bem vindo à minha página do GitHub!
 
 Sou Engenheiro de Dados Jr. formado pela SoulCode Academy, com MBA em Business Intelligence pelo IGTI.
 
-Estou em fase de transição de carreira para a área de dados procurando pela minha primeira oportunidade na área!
+Estou em fase de transição de carreira para a área de dados procurando pela minha primeira oportunidade!
 
 Neste repositório você irá encontrar, além de material utilizado para meus estudos, alguns projetos pessoais para demonstrar meu conhecimento nas ferramentas que utilizo no meu dia a dia.
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,11 +17,8 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
     <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    
 </div> 
-
 <br>
-
 
 ![Douglas Littig GitHub stats](https://github-readme-stats.vercel.app/api?username=gittil&theme=dracula&show_icons=true)
 
@@ -38,9 +34,13 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 
 - [Instalando o Docker no Windows 10 ou 11](@douglaslittig/instalando-o-docker-no-windows-10-ou-11-197b05aa9950)
 
+<br>
+<br>
 
 
-
+[![Site](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@douglaslittig)
+[![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaslittig/)
+[![Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.littig@gmail.com)
 
 
 
@@ -48,4 +48,7 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 <br/>
 <br/>
 
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
