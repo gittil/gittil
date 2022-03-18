@@ -18,7 +18,7 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
     <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+    
 </div> 
 
 <br>
@@ -49,7 +49,3 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 <br/>
 
 ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
-- [Instalando o Docker no Windows 10 ou 11](@douglaslittig/instalando-o-docker-no-windows-10-ou-11-197b05aa9950)
-
