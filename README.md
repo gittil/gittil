@@ -9,7 +9,6 @@ Estou em fase de transição de carreira para a área de dados procurando pela m
 
 Neste repositório você irá encontrar, além de material utilizado para meus estudos, alguns projetos pessoais para demonstrar meu conhecimento nas ferramentas que utilizo no meu dia a dia.
 
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -23,7 +22,7 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 ![Douglas Littig GitHub stats](https://github-readme-stats.vercel.app/api?username=gittil&theme=dracula&show_icons=true)
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittil&theme=blue-green"/>
+    <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittil&theme=dracula"/>
 </div>
 
 
