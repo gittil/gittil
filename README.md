@@ -1,7 +1,7 @@
 ## Olá, eu sou o Douglas! Tudo bem?
 
 
-### Seja muito bem vindo à minha página do GitHub!
+### Seja muito bem vindo ao meu GitHub!
 
 Sou Engenheiro de Dados Jr. formado pela SoulCode Academy, com MBA em Business Intelligence pelo IGTI.
 
