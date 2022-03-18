@@ -1,8 +1,20 @@
-## Olá eu sou o Douglas! 
+## Olá, eu sou o Douglas! Tudo bem?
+
 ### Seja muito bem vindo à minha página do GitHub!
 
-[![Site](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://him-oficial.com.br/)
-[![Site](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://him-oficial.com.br/)
+Sou Engnheiro de Dados Jr. formado pelo curso da SoulCode Academy, com MBA em Business Intelligence pelo IGTI.
+
+Estou em fase de transição de carreira para a área de dados procurando pela minha primeira oportunidade na área!
+
+
+[![Site](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@douglaslittig)
+[![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaslittig/)
+[![Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglas.littig@gmail.com)
+
+
+
+
+
 
 ![Douglas Littig GitHub stats](https://github-readme-stats.vercel.app/api?username=gittil&theme=dracula&show_icons=true)
 
