@@ -33,6 +33,9 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 
 - [Instalando o Docker no Windows 10 ou 11](@douglaslittig/instalando-o-docker-no-windows-10-ou-11-197b05aa9950)
 
+- [Instalando o SGBD Cassandra no Docker](https://www.linkedin.com/pulse/instalando-o-sgbd-cassandra-docker-douglas-littig/?trackingId=w5AnyLSURE%2BBRSvmVIl%2BYg%3D%3D)
+
+
 <br>
 <br>
 
