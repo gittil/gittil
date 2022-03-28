@@ -11,7 +11,7 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 
 ### Projetos:
 
-- [Projetos CNPJ 2022:](https://github.com/gittil/projeto-cnpj-2022) Nesse projeto é feita a ingestão, tratamento e análises dos dados do site da Receita Federal com os dados públicos dos CNPJ atualizados em janeiro de 2022
+- [Projeto CNPJ 2022:](https://github.com/gittil/projeto-cnpj-2022) Nesse projeto é feita a ingestão, tratamento e análises dos dados do site da Receita Federal com os dados públicos dos CNPJ atualizados em janeiro de 2022
 <br></br><br></br><br></br>
 
 <div align="center">
