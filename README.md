@@ -3,33 +3,40 @@
 
 ### Seja muito bem vindo ao meu GitHub!
 
-Sou Engenheiro de Dados Jr. formado pela SoulCode Academy, com MBA em Business Intelligence pelo IGTI.
+Sou Engenheiro de Dados formado pela SoulCode Academy, com MBA em Business Intelligence pelo IGTI.
 
 Estou em fase de transição de carreira para a área de dados procurando pela minha primeira oportunidade!
 
 Neste repositório você irá encontrar, além de material utilizado para meus estudos, alguns projetos pessoais para demonstrar meu conhecimento nas ferramentas que utilizo no meu dia a dia.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</div> 
-<br>
+### Projetos:
 
-![Douglas Littig GitHub stats](https://github-readme-stats.vercel.app/api?username=gittil&theme=dracula&show_icons=true)
+- [Projetos CNPJ 2022:](https://github.com/gittil/projeto-cnpj-2022) Nesse projeto é feita a ingestão, tratamento e análises dos dados do site da Receita Federal com os dados públicos dos CNPJ atualizados em janeiro de 2022
+<br></br><br></br><br></br>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittil&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/gittil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gittil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittil&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div style="display: inline_block"><br>
+    <img align="center" alt="Doug-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Doug-Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+    <img align="center" alt="Doug-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+    <img align="center" alt="Doug-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Doug-PSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="Doug-Mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="Doug-GCP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+    <img align="center" alt="Doug-Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+    <img align="center" alt="Doug-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+</div>
 
-<br/>
-<br/>
+##
 
-## Abaixo seguem alguns links de materiais que escrevi para a comunidade:
+<br><br/>
+
+### Além de projetos de estudo, aqui você pode encontrar alguns links com tutoriais que escrevi:
 
 - [Instalando o Docker no Windows 10 ou 11](@douglaslittig/instalando-o-docker-no-windows-10-ou-11-197b05aa9950)
 
@@ -49,7 +56,6 @@ Neste repositório você irá encontrar, além de material utilizado para meus e
 
 <br/>
 <br/>
-
 
 
 
