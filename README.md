@@ -5,8 +5,6 @@
 
 Sou Engenheiro de Dados formado pela SoulCode Academy, com MBA em Business Intelligence pelo IGTI.
 
-Estou em fase de transição de carreira para a área de dados procurando pela minha primeira oportunidade!
-
 Neste repositório você irá encontrar, além de material utilizado para meus estudos, alguns projetos pessoais para demonstrar meu conhecimento nas ferramentas que utilizo no meu dia a dia.
 
 ### Projetos:
